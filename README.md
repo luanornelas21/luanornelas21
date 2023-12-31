@@ -2,7 +2,7 @@
 ## I worked for almost 4 years in Industrial Automation field, but I turned to Data Science field which I love and I'm studying to learn and become better.
 ## Now, I`m finishing Computer Engineering and I`m Data Science Intern.
 
-- 🔭 I’m currently working on Instituto Eldorado
+#### 🔭 I’m currently working on Instituto Eldorado
 <!--
 **luanornelas21/luanornelas21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
